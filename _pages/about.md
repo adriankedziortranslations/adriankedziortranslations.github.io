@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Adrian Kędzior – tłumaczenia z języków chińskiego, angielskiego i chorwackiego"
 author_profile: true
 redirect_from: 
