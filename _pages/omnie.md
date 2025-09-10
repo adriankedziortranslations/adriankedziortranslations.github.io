@@ -3,8 +3,8 @@ permalink: /
 title: "Adrian Kędzior – tłumaczenia z języków chińskiego, angielskiego i chorwackiego"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /omnie/
+  - /omnie.html
 ---
 
 Nazywam się Adrian Kędzior i zawodowo zajmuję się tłumaczeniem języków: chińskiego, angielskiego i chorwackiego. Konkretne pary językowe, w których pracuję, to **angielski > polski**, **polski > angielski**, **chiński > polski**, **chiński > angielski**, **chorwacki > polski** oraz **polski > chorwacki**.
